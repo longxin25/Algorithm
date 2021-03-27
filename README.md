@@ -14,7 +14,7 @@
   
   [pwstrick  一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)
   
-  [GitBook  《十大经典排序算法》](https://github.com/hustcc/JS-Sorting-Algorithm)
+  [hustcc  GitBook-《十大经典排序算法》](https://github.com/hustcc/JS-Sorting-Algorithm)
   
   [CyC2018  CS-Notes-算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E7%AE%97%E6%B3%95%20-%20%E7%9B%AE%E5%BD%95.md)
   
